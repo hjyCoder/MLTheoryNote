@@ -312,5 +312,3 @@ $$
 公式推导：https://www.cnblogs.com/kyrieng/p/8694705.html
 
 直接理解熵：https://www.jianshu.com/p/09b70253c840
-
-概率论公式参考：https://www.zybuluo.com/catscarf/note/984304
